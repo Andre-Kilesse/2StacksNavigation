@@ -7,11 +7,10 @@
 - 🧠 Gerenciamento por duas pilhas LIFO
 
 ## 🏗️ Estrutura do Código
-src/
-├── node.js # Classe Node (elemento básico)
-├── una.js # Classe Una (pilha LIFO)
-├── navegador.js # Gerenciador de estado
-└── main.js # Menu interativo
+- 📄 `node.js` → Classe Node (elemento básico)
+- 📦 `una.js` → Classe Una (pilha LIFO)
+- 🧭 `navegador.js` → Gerenciador de estado
+- 🖥️ `main.js` → Menu interativo
 
 
 ## 🚦 Como Executar
